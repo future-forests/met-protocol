@@ -19,7 +19,7 @@ Shared field protocol for station **FF-MET-042** (Staufen). Changes are made onl
 13. Timing: complete sampling within ±15 min of the scheduled UTC hour.
 14. Duplicate: read critical sensors twice if the first value looks wrong or unstable.
 15. Labels: use waterproof marker on any new cable tags.
-16. Trash: pack out all litter from the site.
+16. Trash: pack out all litter and used equipment from the site.
 17. Radio: confirm two-way radio contact before solo field visits.
 18. Heat: take a hydration break every 45 min when air temperature > 30 °C.
 19. Night: no solo visits after sunset without a headlamp and supervisor approval.
