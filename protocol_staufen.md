@@ -15,7 +15,7 @@ Shared field protocol for station **FF-MET-042** (Staufen). Changes are made onl
 9. Vegetation: keep a 1 m clearance around the mast; trim encroaching branches.
 10. Soil: do not disturb soil collars when accessing ground sensors.
 11. Wildlife: report any nest or burrow within 5 m of the mast to the supervisor.
-12. Access: close the field gate behind you after each visit.
+12. Access: close and latch the field gate behind you after each visit.
 13. Timing: complete sampling within ±15 min of the scheduled UTC hour.
 14. Duplicate: read critical sensors twice if the first value looks wrong.
 15. Labels: use waterproof marker on any new cable tags.
