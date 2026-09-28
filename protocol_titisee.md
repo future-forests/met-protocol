@@ -1,0 +1,5 @@
+# FF-MET-043 sampling protocol
+
+- Wind conditions: do not sample if wind > 12 m/s
+- Sensor check: record battery level before each visit
+- Data upload: copy logger files to the group drive on the same day
