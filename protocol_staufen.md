@@ -17,7 +17,7 @@ Shared field protocol for station **FF-MET-042** (Staufen). Changes are made onl
 11. Wildlife: report any nest or burrow within 5 m of the mast to the supervisor.
 12. Access: close the field gate behind you after each visit.
 13. Timing: complete sampling within ±15 min of the scheduled UTC hour.
-14. Duplicate: read critical sensors twice if the first value looks wrong.
+14. Duplicate: read critical sensors twice if the first value looks wrong or unstable.
 15. Labels: use waterproof marker on any new cable tags.
 16. Trash: pack out all litter from the site.
 17. Radio: confirm two-way radio contact before solo field visits.
