@@ -23,4 +23,4 @@ Shared field protocol for station **FF-MET-042** (Staufen). Changes are made onl
 17. Radio: confirm two-way radio contact before solo field visits.
 18. Heat: take a hydration break every 45 min when air temperature > 30 °C.
 19. Night: no solo visits after sunset without a headlamp and supervisor approval.
-20. Data: upload raw files to the shared drive within 24 h of each visit.
+20. Data: upload raw files (named FF-MET-042_YYYMMDD) to the shared drive within 24 h of each visit.
