@@ -20,7 +20,7 @@ Shared field protocol for station **FF-MET-042** (Staufen). Changes are made onl
 14. Duplicate: read critical sensors twice if the first value looks wrong.
 15. Labels: use waterproof marker on any new cable tags.
 16. Trash: pack out all litter from the site.
-17. Radio: confirm two-way radio contact before solo field visits.
+17. Radio: confirm two-way radio contact before solo field visits; test the radio battery the evening before.
 18. Heat: take a hydration break every 45 min when air temperature > 30 °C.
 19. Night: no solo visits after sunset without a headlamp and supervisor approval.
 20. Data: upload raw files to the shared drive within 24 h of each visit.
